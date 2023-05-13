@@ -13,9 +13,6 @@ body.modo-escuro{
 body.modo-escuro .cartao-pokemon{
     background-color: #a8a8a8;
 }
-body.modo-escuro .cartao-pokemon .informacoes{
-    border-color: #f5f5f5;
-}
 header{
     display: flex;
     justify-content: space-between; /*logo na esquerda e sol na direita*/
